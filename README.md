@@ -1,0 +1,1 @@
+# bom_generation_kicad
