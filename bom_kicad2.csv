@@ -1,0 +1,10 @@
+Source:,/home/…….../bom_kicad/bom_kicad.kicad_sch,,,,,,
+Date:,Wed 13 Apr 2022 23:22:25 -03,,,,,,
+Variant:,2,,,,,,
+Item,Qty,Designator,PN,Valor,Detailed Description,Fabricante,Link
+1,1,CN1,PH1-06-UA,CON_PIN_HEADER_1X6_2.54_180,CONN HEADER VERT 6POS 2.54MM,Adam Tech,https://www.digikey.com.br/pt/products/detail/adam-tech/PH1-06-UA/9830394
+2,3,"LD1, LD2, LD3",L171L-YGC,LED_AMARELO_0805_L171L-YGC,Yellow-Green 574nm LED Indication - Discrete 2.15V 0805 (2012 Metric),American Opto Plus LED,https://www.digikey.com.br/en/products/detail/american-opto-plus-led/L171L-YGC/12325431
+3,3,"LD4, LD5, LD6",L171L-QBC-TR,LED_AZUL_0805_L171L-QBC-TR,Blue 470nm LED Indication - Discrete 3.3V 0805 (2012 Metric),American Opto Plus LED,https://www.digikey.com.br/en/products/detail/american-opto-plus-led/L171L-QBC-TR/12325437
+4,2,"R1, R2",RMCF0805FT1K00,R_0805_1K_1%_1/8W,"1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film",Stackpole Electronics Inc,https://www.digikey.com.br/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K00/1760676
+5,2,"T1, T2","BC817-40,215",T_NPN_SOT23_BC817,Transistores bipolares de junção - BJT NPN GP 500 45V,Nexperia,https://br.mouser.com/ProductDetail/Nexperia/BC817-40215?qs=sGAEpiMZZMt46bMQRT2SLrMI6Lc%252BSQ0xVQ67Chgc3gU%3D
+Component Count:,11,,,,,,
