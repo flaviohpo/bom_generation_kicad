@@ -21,12 +21,10 @@ import kicad_netlist_reader
 import csv
 import sys
 
-# flavio
 if len(sys.argv) != 4:
     print("Usage ", __file__, "<generic_netlist.xml> <output.csv> <variant>", file=sys.stderr)
     sys.exit(1)
 
-# flavio
 variant = sys.argv[3]
 print('Variante = ', end='')
 print(variant)
@@ -35,7 +33,6 @@ dnp_field = 'DNP'+variant
 print('DNP = ', end='')
 print(dnp_field)
 
-# flavio
 def myEqu(self, other):
     """myEqu is a more advanced equivalence function for components which is
     used by component grouping. Normal operation is to group components based
